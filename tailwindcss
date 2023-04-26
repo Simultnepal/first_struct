@@ -1,0 +1,93 @@
+bg-{color}: sets the background color.
+text-{color}: sets the text color.
+font-{size}: sets the font size.
+font-bold: makes the text bold.
+italic: makes the text italic.
+uppercase: makes the text uppercase.
+lowercase: makes the text lowercase.
+capitalize: capitalizes the first letter of each word.
+text-center: centers the text horizontally.
+text-left: aligns the text to the left.
+text-right: aligns the text to the right.
+text-justify: justifies the text.
+mx-auto: centers the element horizontally.
+my-auto: centers the element vertically.
+w-{size}: sets the width of the element.
+h-{size}: sets the height of the element.
+p-{size}: sets the padding of the element.
+pt-{size}: sets the top padding of the element.
+pb-{size}: sets the bottom padding of the element.
+pl-{size}: sets the left padding of the element.
+pr-{size}: sets the right padding of the element.
+m-{size}: sets the margin of the element.
+mt-{size}: sets the top margin of the element.
+mb-{size}: sets the bottom margin of the element.
+ml-{size}: sets the left margin of the element.
+mr-{size}: sets the right margin of the element.
+border: adds a border to the element.
+rounded: rounds the corners of the element.
+shadow: adds a shadow to the element.
+hover:bg-{color}: sets the background color when the element is hovered.
+hover:text-{color}: sets the text color when the element is hovered.
+hover:border: adds a border to the element when it is hovered.
+hover:rounded: rounds the corners of the element when it is hovered.
+flex: enables flexbox layout.
+flex-row: sets the flex direction to row.
+flex-col: sets the flex direction to column.
+justify-start: aligns the items to the left.
+justify-center: centers the items horizontally.
+justify-end: aligns the items to the right.
+items-start: aligns the items to the top.
+items-center: centers the items vertically.
+items-end: aligns the items to the bottom.
+space-x-{size}: sets the horizontal space between the child elements in a flex container.
+space-y-{size}: sets the vertical space between the child elements in a flex container.
+grid: enables grid layout.
+grid-cols-{number}: sets the number of columns in the grid.
+grid-rows-{number}: sets the number of rows in the grid.
+gap-{size}: sets the gap between grid items.
+place-items-{position}: aligns items both horizontally and vertically within a grid cell.
+z-{number}: sets the z-index of the element.
+block: sets the display property to block.
+hidden: hides the element.
+opacity-{number}: sets the opacity of the element.
+transition-{property}-{duration}: sets the transition property and duration for an element.
+duration-{duration}: sets the duration of a transition.
+ease-{timing-function}: sets the timing function of a transition.
+transform-{property}-{value}: applies a transformation to an element.
+rotate-{angle}: rotates an element by a specified angle.
+scale-{factor}: scales an element by a specified factor.
+translate-x-{size}: moves an element along the x-axis by a specified distance.
+translate-y-{size}: moves an element along the y-axis by a specified distance.
+skew-x-{angle}: skews an element along the x-axis by a specified angle.
+skew-y-{angle}: skews an element along the y-axis by a specified angle.
+truncate: truncates text that overflows the element.
+overflow-{property}: sets the overflow behavior of an element.
+scrollbar-{property}: sets the style of the scrollbar in the element.
+bg-opacity-{number}: sets the opacity of the background color.
+text-opacity-{number}: sets the opacity of the text color.
+hover:opacity-{number}: sets the opacity of an element when it is hovered.
+focus:opacity-{number}: sets the opacity of an element when it is focused.
+placeholder-{color}: sets the color of the placeholder text in an input field.
+focus:outline-none: removes the outline when an element is focused.
+focus:outline-{property}-{value}: sets the outline property and value when an element is focused.
+select-none: disables text selection on the element.
+pointer-events-{property}: sets the pointer events property of an element.
+align-{alignment}: aligns the element vertically within its container.
+border-{width}: sets the width of the border.
+border-{color}: sets the color of the border.
+border-t-{width}: sets the width of the top border.
+border-t-{color}: sets the color of the top border.
+border-b-{width}: sets the width of the bottom border.
+border-b-{color}: sets the color of the bottom border.
+border-l-{width}: sets the width of the left border.
+border-l-{color}: sets the color of the left border.
+border-r-{width}: sets the width of the right border.
+border-r-{color}: sets the color of the right border.
+divide-x-{size}: sets the size of the horizontal divider between child elements.
+divide-y-{size}: sets the size of the vertical divider between child elements.
+divide-{color}: sets the color of the divider between child elements.
+divide-opacity-{number}: sets the opacity of the divider between child elements.
+grid-flow-row: sets the flow of grid items to be row-first.
+grid-flow-col: sets the flow of grid items to be column-first.
+justify-items-{position}: aligns items horizontally
